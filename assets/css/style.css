@@ -90,7 +90,7 @@ header img{
     z-index: 1;
 }
 
-.card:hover .img-hover {
+.photo:hover .img-hover {
     display: inline;
 }
 
